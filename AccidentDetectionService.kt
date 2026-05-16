@@ -10,7 +10,6 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import java.text.SimpleDateFormat
 import java.util.*
-
 class AccidentDetectionService : Service() {
 
     private lateinit var accidentDetector: AccidentDetector
