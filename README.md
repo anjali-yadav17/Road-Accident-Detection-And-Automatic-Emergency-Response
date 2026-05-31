@@ -156,15 +156,16 @@ If not cancelled:
 
 ## Application Screenshots
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4fb44000-997d-4350-899b-506c76e8cee4" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fb44000-997d-4350-899b-506c76e8cee4" width="200">
+  <img src="https://github.com/user-attachments/assets/9a5b1545-2ea2-4bb1-8a71-ee5ad6bca2d9" width="200">
+  <img src="https://github.com/user-attachments/assets/3b4097fb-99e1-4ff6-874e-77fb739659a4" width="200">
+</p>
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9a5b1545-2ea2-4bb1-8a71-ee5ad6bca2d9" />
-
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4d783f50-0bd3-4e77-88f0-16284e4197dc" />
-
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/f7ba62d3-bab8-41af-be46-f9843476b592" />
-
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b4097fb-99e1-4ff6-874e-77fb739659a4" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d783f50-0bd3-4e77-88f0-16284e4197dc" width="200">
+  <img src="https://github.com/user-attachments/assets/f7ba62d3-bab8-41af-be46-f9843476b592" width="200">
+</p>
 
 ---
 
